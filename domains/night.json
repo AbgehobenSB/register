@@ -1,1 +1,13 @@
 
+{
+  "description": "Night",
+  "repo": "",
+  "owner": {
+    "username": "Abgehoben",
+    "email": "admin@abgehoben.one",
+    "twitter": "AbgehobenSB"
+  },
+  "record": {
+    "CNAME": "abgehoben.one/dev"
+  }
+}
